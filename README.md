@@ -1,6 +1,6 @@
 # PluralsightTweet
 
-**TODO: Add description**
+Doing some tutorial in elixir. This app will use a file from sample.txt to search for a random line to tweet
 
 ## Installation
 
